@@ -9,6 +9,10 @@
 
 ### REACH ME ANYTIME
 
+
+[![Upwork Badge](https://img.shields.io/badge/-darlington-grey?style=flat&logo=upwork&logoColor=white&link=
+https://www.upwork.com/freelancers/~01a56c22fcbf96bd04/)](
+https://www.upwork.com/freelancers/~01a56c22fcbf96bd04/) 
 [![Gmail Badge](https://img.shields.io/badge/-cyberdarlington@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cyberdarlington@gmail.com)](mailto:cyberdarlington@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlington-onos/)](https://www.linkedin.com/in/darlington-onos/)[![Upwork Badge](https://img.shields.io/badge/-chysomm62-grey?style=flat&logo=upwork&logoColor=white&link=
 https://www.upwork.com/freelancers/~01a56c22fcbf96bd04/)](
