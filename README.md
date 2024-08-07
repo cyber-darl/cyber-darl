@@ -9,7 +9,7 @@
 
 ### REACH ME ANYTIME
 
-[![Gmail Badge](https://img.shields.io/badge/-chisommuorah@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chisommuorah@gmail.com)](mailto:chisommuorah@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-cyberdarlington@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cyberdarlington@gmail.com)](mailto:cyberdarlington@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chi-muorah-6a8515193/)](https://www.linkedin.com/in/chi-muorah-6a8515193/) [![Github Badge](https://img.shields.io/badge/-chysomm62-grey?style=flat&logo=github&logoColor=white&link=https://github.com/chysomm62/)](https://www.github.com/chysomm62/) [![Twitter Badge](https://img.shields.io/badge/-preda-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/chisompreda/)](https://www.twitter.com/chisompreda/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://chysomm62.github.io/)](https://chysomm62.github.io/)
 
 **cyber-darl/cyber-darl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
