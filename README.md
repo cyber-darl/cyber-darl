@@ -1,6 +1,6 @@
 ## :wave:Hi! It's nice to have you here 
 
-<p> My name is Darlington, I am a Front-end developer with strong understanding of Web3, Blockchain and DeFi. :man_technologist: I find it interesting to create interfaces and experience that bring ease to the users. I am open for front-end develoment jobs. HTML, CSS and JavaScript are my buddies, but I can cook with React, MongoDB, Express and Nodejs. Yeah, you read that right, I'm exploring the MERN stack.</p>
+<p> My name is Darlington :man_technologist: I find it interesting to create interfaces and experience that bring ease to the users. I am open for front-end develoment jobs. HTML, CSS and JavaScript are my buddies, I'm currently exploring more backend and the MERN stack.</p>
 
 - 😄 Pronouns: He/Him
   - 🔭 I’m currently working on some MERN projects
